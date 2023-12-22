@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/workspace/AbstractCodeCollection/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/AbstractCodeCollection.dir/main.cpp.o -c /root/workspace/AbstractCodeCollection/main.cpp",
+  "file": "/root/workspace/AbstractCodeCollection/main.cpp"
+}
+]
